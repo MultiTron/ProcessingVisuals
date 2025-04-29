@@ -1,13 +1,13 @@
 # Processing Visuals
 
-    Algorithms for visualisations in processing🧑‍🎨
+Algorithms for visualisations in processing🧑‍🎨
 
 
 ## Clouds Randomised Algorithm
 
 ### Description
 
-    Randomised algorithm for making a visual with the arc construct. The background is a gradient, representing the blue sky. The white arcs form a lot of abstract clouds, varying in opacity and thickness ☁️. The sketch automaticaly saves a screenshot when the letter S is pressed, with the name being the current time and date.
+Randomised algorithm for making a visual with the arc construct. The background is a gradient, representing the blue sky. The white arcs form a lot of abstract clouds, varying in opacity and thickness ☁️. The sketch automaticaly saves a screenshot when the letter S is pressed, with the name being the current time and date.
 
 ___
 
