@@ -25,7 +25,7 @@ ___
 
 ### Description
 
-    Randomised algorithm for making a visual with lines that all start from the previous line's ending point. The lines alternate vertically and horizontally, so it appears that they make a square turn. At the end beginning of the first line is connected with the end of the lst line directly.
+Randomised algorithm for making a visual with lines that all start from the previous line's ending point. The lines alternate vertically and horizontally, so it appears that they make a square turn. At the end beginning of the first line is connected with the end of the lst line directly.
 
 ___
 
