@@ -1,13 +1,13 @@
 # Processing Visuals
 
-Algorithms for visualisations in processing🧑‍🎨
+Algorithms for visualizations in processing🧑‍🎨
 
 
-## Clouds Randomised Algorithm
+## Clouds Randomised Algorithm ☁️
 
 ### Description
 
-Randomised algorithm for making a visual with the arc construct. The background is a gradient, representing the blue sky. The white arcs form a lot of abstract clouds, varying in opacity and thickness ☁️. The sketch automaticaly saves a screenshot when the letter S is pressed, with the name being the current time and date.
+Randomised algorithm for making a visual with the arc construct. The background is a gradient, representing the blue sky. The white arcs form a lot of abstract clouds, varying in opacity and thickness. The sketch automaticaly saves a screenshot when the letter S is pressed, with the name being the current time and date.
 
 ___
 
@@ -21,7 +21,7 @@ ___
 
 ___
 
-## BONUS: George Nees Algorithm
+## BONUS: George Nees Algorithm 🪄
 
 ### Description
 
@@ -39,3 +39,20 @@ ___
 
 ___
 
+## Sound Visualization 🔊
+
+### Description
+
+This sketch automatically plays through the whole new MBT album - [Dopamina](https://music.youtube.com/playlist?list=OLAK5uy_kup6ajGtwlFozY27n9nh-G4WniKD9ecyw) and displays a circular waveform spectrum with dinamic colors and pulsing circles inside. The currently playing song is displayed at the top of the screen. On mouse click the next song is loaded. The sketch uses the library Minim for sound playback and visualizations.
+
+___
+
+### Images
+
+![Visual 1](./sketches/sound_visualizer/25_05_17_11_19_45.png "Visual 1")
+![Visual 2](./sketches/sound_visualizer/25_05_17_11_20_08.png "Visual 2")
+![Visual 3](./sketches/sound_visualizer/25_05_17_11_21_01.png "Visual 3")
+![Visual 4](./sketches/sound_visualizer/25_05_17_11_21_38.png "Visual 4")
+![Visual 5](./sketches/sound_visualizer/25_05_17_11_22_26.png "Visual 5")
+
+___
