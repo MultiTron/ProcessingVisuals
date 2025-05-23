@@ -1,6 +1,6 @@
 # Processing Visuals
 
-Algorithms for visualizations in processing🧑‍🎨
+Algorithms for visualizations in Processing🧑‍🎨
 
 
 ## Clouds Randomised Algorithm ☁️
@@ -54,5 +54,63 @@ ___
 ![Visual 3](./sketches/sound_visualizer/25_05_17_11_21_01.png "Visual 3")
 ![Visual 4](./sketches/sound_visualizer/25_05_17_11_21_38.png "Visual 4")
 ![Visual 5](./sketches/sound_visualizer/25_05_17_11_22_26.png "Visual 5")
+
+___
+
+## BONUS: Lines in 4 directions Algorithm 📏
+
+### Description
+
+This sketch overlaps four patterns: 
+1. Horizontal lines in black with random length
+2. Vertical lines in yellow with random length
+3. Diagonal lines from left to right in red with random length
+4. Diagonal lines from right to left in blue with random length
+
+___
+
+### Images
+
+![Visual 1](./sketches/lines_algorithm/25_05_23_18_51_55.png "Visual 1")
+![Visual 2](./sketches/lines_algorithm/25_05_23_18_51_58.png "Visual 2")
+![Visual 3](./sketches/lines_algorithm/25_05_23_18_52_02.png "Visual 3")
+![Visual 4](./sketches/lines_algorithm/25_05_23_18_52_05.png "Visual 4")
+![Visual 5](./sketches/lines_algorithm/25_05_23_18_52_08.png "Visual 5")
+
+___
+
+## BONUS: Light, shadow and overlapping 🟨
+
+### Description
+
+The sketch draws a certain number of rectangles with random position and size. Every next shape has lower opacity and on each rectangle the color switches between orange and red.
+
+___
+
+### Images
+
+![Visual 1](./sketches/rectangles_algo/25_05_23_18_01_11.png "Visual 1")
+![Visual 2](./sketches/rectangles_algo/25_05_23_18_01_37.png "Visual 2")
+![Visual 3](./sketches/rectangles_algo/25_05_23_18_01_41.png "Visual 3")
+![Visual 4](./sketches/rectangles_algo/25_05_23_18_01_48.png "Visual 4")
+![Visual 5](./sketches/rectangles_algo/25_05_23_18_01_51.png "Visual 5")
+
+___
+
+## BONUS: Vera Molnar - Des Ordres (The Final Boss 😱)
+
+### Description
+
+The sketch draws an inception of slightly distorted squares with random colors throughout the whole screen. 
+
+___
+
+### Images
+
+![Visual 1](./sketches/inception_squares/25_05_23_20_36_02.png "Visual 1")
+![Visual 2](./sketches/inception_squares/25_05_23_20_36_05.png "Visual 2")
+![Visual 3](./sketches/inception_squares/25_05_23_20_36_09.png "Visual 3")
+![Visual 4](./sketches/inception_squares/25_05_23_20_36_12.png "Visual 4")
+![Visual 5](./sketches/inception_squares/25_05_23_20_36_15.png "Visual 5")
 
 ___

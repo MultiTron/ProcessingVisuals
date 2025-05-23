@@ -22,7 +22,7 @@ float smoothing = 0.8;
 float[] smoothedBands;
 
 void setup() {
-  size(800, 600);
+  fullScreen();
   minim = new Minim(this);
 
   loadSong(currentSongIndex);
