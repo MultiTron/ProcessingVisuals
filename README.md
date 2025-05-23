@@ -43,7 +43,7 @@ ___
 
 ### Description
 
-This sketch automatically plays through the whole new MBT album - [Dopamina](https://music.youtube.com/playlist?list=OLAK5uy_kup6ajGtwlFozY27n9nh-G4WniKD9ecyw) and displays a circular waveform spectrum with dinamic colors and pulsing circles inside. The currently playing song is displayed at the top of the screen. On mouse click the next song is loaded. The sketch uses the library Minim for sound playback and visualizations.
+This sketch automatically plays through the whole album [MBT - Dopamina](https://music.youtube.com/playlist?list=OLAK5uy_kup6ajGtwlFozY27n9nh-G4WniKD9ecyw) and displays a circular waveform spectrum with dynamic colors and pulsing circles inside. The currently playing song is displayed at the top of the screen. On mouse click the next song is loaded. The sketch uses the library Minim for sound playback and visualizations.
 
 ___
 
@@ -56,6 +56,7 @@ ___
 ![Visual 5](./sketches/sound_visualizer/25_05_17_11_22_26.png "Visual 5")
 
 ___
+<<<<<<< HEAD
 
 ## BONUS: Lines in 4 directions Algorithm 📏
 
@@ -114,3 +115,5 @@ ___
 ![Visual 5](./sketches/inception_squares/25_05_23_20_36_15.png "Visual 5")
 
 ___
+=======
+>>>>>>> 5e6178e063d70c046bb5c4d25096ca4b91e97496
