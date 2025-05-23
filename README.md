@@ -56,7 +56,6 @@ ___
 ![Visual 5](./sketches/sound_visualizer/25_05_17_11_22_26.png "Visual 5")
 
 ___
-<<<<<<< HEAD
 
 ## BONUS: Lines in 4 directions Algorithm 📏
 
@@ -115,5 +114,3 @@ ___
 ![Visual 5](./sketches/inception_squares/25_05_23_20_36_15.png "Visual 5")
 
 ___
-=======
->>>>>>> 5e6178e063d70c046bb5c4d25096ca4b91e97496
